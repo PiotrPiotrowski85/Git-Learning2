@@ -17,6 +17,9 @@ body {
     margin: 0 auto;
     width: 100%;
 }
+p {
+    margin-top: 5px;
+}
 .row::before,
 .row::after {
 	content: "";
@@ -42,5 +45,4 @@ body {
 
 .song {
     padding: 10px;
-    border: 1px solid #000;
 }
